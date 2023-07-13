@@ -1,9 +1,9 @@
 # bank sector credit  to the private sector.
+![](privatesector.jpeg)
 
 
 
 
-![Private sector image](https://github.com/Chizobaesther/chizoba2/assets/131677886/8ada29af-c50f-43b6-94c7-471c4ef520e0)
 
 
 
