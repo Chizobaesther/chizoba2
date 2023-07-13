@@ -1,5 +1,12 @@
 # bank sector credit  to the private sector.
 
+
+
+
+![Private sector image](https://github.com/Chizobaesther/chizoba2/assets/131677886/8ada29af-c50f-43b6-94c7-471c4ef520e0)
+
+
+
 ## introduction
 According to my internship programme at Internsify Africa, I was expected to build an interactive dashboard and gain valuable insights into the analysis of Bank credit to private sectors in Nigeria. 
 This project centres on how credits are allocated to the various sector and subsector in  Nigeria from 2015 to 2020.
